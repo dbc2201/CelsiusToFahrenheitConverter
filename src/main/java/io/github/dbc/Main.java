@@ -1,4 +1,4 @@
-package com.niit.jap;
+package io.github.dbc;
 
 import java.util.Scanner;
 

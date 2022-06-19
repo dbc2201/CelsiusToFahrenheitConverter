@@ -1,4 +1,4 @@
-package com.niit.jap;
+package io.github.dbc;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

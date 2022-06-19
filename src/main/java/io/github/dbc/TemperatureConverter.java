@@ -1,4 +1,4 @@
-package com.niit.jap;
+package io.github.dbc;
 
 public class TemperatureConverter {
     /**

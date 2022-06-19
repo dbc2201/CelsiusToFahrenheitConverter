@@ -20,8 +20,8 @@ Complete the method in the source code file.
 Task
 ---
 
-1. Open the [source code file](src/main/java/com/niit/jap/TemperatureConverter.java) and complete the code.
-2. Run the [test case file](src/test/java/com/niit/jap/TemperatureConverterTest.java) and run the test cases to
+1. Open the [source code file](src/main/java/io/github/dbc/TemperatureConverter.java) and complete the code.
+2. Run the [test case file](src/test/java/io/github/dbc/TemperatureConverterTest.java) and run the test cases to
    check your code.
 
 ---
